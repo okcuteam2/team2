@@ -1,0 +1,2 @@
+Abstract:
+Learning Management System is a web-based application with database management system, which deals with the information of a student. This application provides the complete information of a student like student details, course registered, grades/marks, fee details, Scholarship offered etc. The project consists of two modules namely user module and admin module. A student considered as user can access to the portal by logging in using his credentials like username and password. Admin module is used to manage all the data of the management system.
